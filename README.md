@@ -4,4 +4,5 @@ Used websites like Zillow,apartments.com and hotpads to scrape data for evaluati
 Have uploaded clean data and numeric data csv files which were used for this evaluation. 
 Used this website to find the best regressor that fits the data-https://regclass.herokuapp.com/
 Have used both multiple regressor and XGBoost for prediction.
+I have used two different styles for using multioe regressor.
 I have used AWS service (RDS) for storage of data from where I will be extracting data to create a dashboard on Tableau.
