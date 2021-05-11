@@ -14,5 +14,5 @@ KPI(Key Performance Indicator)
 The average cost of apartments in illinois is around $1100.4526315789474 as per the data collected so for measuring the KPI, use the following: avg=1100.45
 KPI= ((Cost of the apartment - avg)/avg) x 100
 If the percentage that you are getting is a positive value, you are making an excellent deal others, you should consider better options or negotiate.
-
+It has been visualized on DataStudio-https://datastudio.google.com/reporting/c85ce7cb-6c35-4621-9cb0-953e8c0095d3/page/PqJIC/edit
 
