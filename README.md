@@ -8,7 +8,7 @@ Used this website to find the best regressor that fits the data-https://regclass
 Have used both multiple regressor and XGBoost for prediction.
 I have used two different styles for using regressor.
 The XGBoost algorithm turns out to be the best.
-I have put the cleaned data into AWS RDS(MySQL) and have also included the code for it(ws_rent_illinois). I then extracted the collected data to the Tableau platform where I did visualization for the same. The images of the visualization are attached below.
+I have put the cleaned data into AWS RDS(MySQL) and have also included the code for it(ws_rent_illinois). The images of the visualization are attached below.
 
 KPI(Key Performance Indicator)
 The average cost of apartments in illinois is around $1100.4526315789474 as per the data collected so for measuring the KPI, use the following: avg=1100.45
