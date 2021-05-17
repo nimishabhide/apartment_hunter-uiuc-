@@ -16,3 +16,6 @@ KPI= ((Cost of the apartment - avg)/avg) x 100
 If the percentage that you are getting is a positive value, you are making an excellent deal others, you should consider better options or negotiate.
 It has been visualized on DataStudio-https://datastudio.google.com/reporting/c85ce7cb-6c35-4621-9cb0-953e8c0095d3/page/PqJIC/edit
 
+You can see where the apartments are located using the google map made to specifically show the exact location.https://www.google.com/maps/d/edit?hl=en&mid=1YswOaFnXfTZzXcfljM-Mp6byWeT-fbOV&ll=40.10903309031322%2C-88.24651084926094&z=15
+
+
