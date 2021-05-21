@@ -7,7 +7,7 @@ Have uploaded clean data and numeric data csv files which were used for this eva
 Used this website to find the best regressor that fits the data-https://regclass.herokuapp.com/
 Have used both multiple regressor and XGBoost for prediction.
 I have used two different styles for using regressor.
-The XGBoost algorithm turns out to be the best.
+The XGBoost algorithm turns out to be the best. Using the algorithm we are able to predict the Cost per Person based on paramenters like location, number of bedrooms, location, distance from various places, etc.
 I have put the cleaned data into AWS RDS(MySQL) and have also included the code for it(ws_rent_illinois). The images of the visualization are attached below.
 
 KPI(Key Performance Indicator)
